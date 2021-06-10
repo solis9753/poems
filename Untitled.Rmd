@@ -1,0 +1,37 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This was not supposed to be a conversation.  
+This was a -shy- utterance of admiration  
+For the thoughts that become words and take shape and touch.  
+An admiration to the seeker who lays traces of existence, in a synthesis of what is real and what is painful and what is alive.   
+Still, there was a chuckle and an urge.    
+Something happened with the air and the sun.    
+  
+This was not supposed to be an invitation to dine.   
+Don’t get me wrong-I am not a cook, but I take food seriously.   
+And now more than ever we should become more like planters and gatherers rather than plain purchasers.   
+Still, something happens when I peel off garlic.  
+Something with garlic and your picture.   
+   
+This was more of a grasp for air.  
+This was a rub off of the shame and the blame.  
+And the illumination of what should had been, and what could have been,  
+like a revelation to a stray one after a cold shower under the first of the spring’s full moon.  
+Still here, still standing, still stray but a clear sight that, this is   
+Something that justifies this journey called life.   
+  
+This was more of a cry towards gratitude.   
+To the great Mother, that takes care of her children,  
+That guides and soothes and restores.   
+That is the source who speaks to them and through them,   
+To brothers and sisters and animals and pebbles alike.  
+Still, our presence in this time and space cannot be mere chance.   
+Something can pull two parallel orbits.  
+  
